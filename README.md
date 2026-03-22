@@ -10,11 +10,9 @@ Minha experiência envolve a manipulação de grandes volumes de dados e a valid
 
 ## 🛠️ Competências Técnicas
 
-* **Linguagens:** Python (Pandas, Scikit-Learn, Seaborn), Fortran e SQL.
-* **Modelagem de Risco:** Desenvolvimento e validação de modelos de PD (Probabilidade de Default) utilizando Regressão Logística e XGBoost.
-* **Métricas Analíticas:** Cálculo de Gini, KS, Curva ROC e implementação de testes de estabilidade (PSI).
-* **Risco & Compliance:** Conhecimento prático em IFRS 9 (ECL), Basileia e monitoramento de riscos de Mercado e Liquidez.
-* **Explicabilidade:** Uso de SHAP para interpretação de modelos de Machine Learning.
+* **Linguagens:** Python.
+* **Análise e ciência de dados.
+* **Modelos estatísticos e estruturais de risco financeiros e não financeiros.
 
 ---
 
