@@ -10,10 +10,10 @@ Minha experiência envolve a manipulação de grandes volumes de dados e a valid
 
 ## 🛠️ Competências Técnicas
 
-* **Linguagens:** Python.
-* **Análise e ciência de dados.
-* **Modelos estatísticos e estruturais de risco financeiros e não financeiros.
-
+* Linguagens: Python.
+* Análise e ciência de dados.
+* Modelos estatísticos e estruturais de risco financeiros e não financeiros.
+  
 ---
 
 ## 🎓 Formação
