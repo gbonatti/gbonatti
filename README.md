@@ -4,7 +4,7 @@
 
 Sou um profissional com sólida base quantitativa, vindo de uma trajetória de 20 anos na área de **Modelagem Numérica** instalando e validando modelos dinâmicos (MPAS, WRF, COSMO e ICON) no INMET. Atualmente, foco minha carreira na aplicação de **Inteligência Artificial** e **Ciência de Dados** para a Validação de Modelos de Risco Financeiro.
 
-Minha experiência envolve a manipulação de grandes volumes de dados e a validação de algoritmos complexos, garantindo que as previsões (sejam climáticas ou financeiras) sejam precisas, estáveis e confiáveis.
+Minha experiência envolve a manipulação de grandes volumes de dados e a validação de algoritmos complexos, garantindo que as previsões (climáticas ou financeiras) sejam precisas, estáveis e confiáveis.
 
 ---
 
