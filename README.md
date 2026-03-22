@@ -12,6 +12,7 @@ Minha experiência envolve a manipulação de grandes volumes de dados e a valid
 
 * Linguagens: Python.
 * Análise e ciência de dados.
+* Modelos de previsão de tempo e clima.
 * Modelos estatísticos e estruturais de risco financeiros e não financeiros.
   
 ---
